@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Tracker</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="hint_title">Movie Title</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="movie_categories">
+        <item>Comedy</item>
+        <item>Action &amp; Adventure</item>
+        <item>Drama</item>
+        <item>Science Fiction &amp; Fantasy</item>
+        <item>Horror &amp; Thriller</item>
+        <item>Other</item>
+    </string-array>
+</resources>

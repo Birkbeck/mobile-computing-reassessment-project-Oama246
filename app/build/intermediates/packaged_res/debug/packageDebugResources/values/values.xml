@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="movie_categories">
+        <item>Comedy</item>
+        <item>Action &amp; Adventure</item>
+        <item>Drama</item>
+        <item>Science Fiction &amp; Fantasy</item>
+        <item>Horror &amp; Thriller</item>
+        <item>Other</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_movie">Add Movie</string>
+    <string name="app_name">Movie Tracker</string>
+    <string name="delete">Delete</string>
+    <string name="hint_title">Movie Title</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <style name="Theme.MovieTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

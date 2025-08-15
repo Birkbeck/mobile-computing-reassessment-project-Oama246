@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.movietracker.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.movietracker.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.movietracker.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.example.movietracker.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.movietracker.app-debug-36:/layout_item_movie.xml.flat",
+        "source": "com.example.movietracker.app-main-38:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.example.movietracker.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.movietracker.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.movietracker.app-debug-36:/layout_activity_edit_movie.xml.flat",
+        "source": "com.example.movietracker.app-main-38:/layout/activity_edit_movie.xml"
+    },
+    {
+        "merged": "com.example.movietracker.app-debug-36:/layout_activity_add_movie.xml.flat",
+        "source": "com.example.movietracker.app-main-38:/layout/activity_add_movie.xml"
+    }
+]

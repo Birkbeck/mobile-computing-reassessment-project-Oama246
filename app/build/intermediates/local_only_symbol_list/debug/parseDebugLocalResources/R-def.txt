@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+array movie_categories
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id buttonDelete
+id buttonSave
+id buttonUpdate
+id editTitle
+id fabAdd
+id movieCategory
+id movieTitle
+id recyclerView
+id spinnerCategory
+layout activity_add_movie
+layout activity_edit_movie
+layout activity_main
+layout item_movie
+mipmap ic_launcher
+mipmap ic_launcher_round
+string add_movie
+string app_name
+string delete
+string hint_title
+string save
+string update
+style Theme.MovieTracker
